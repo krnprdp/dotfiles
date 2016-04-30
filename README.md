@@ -3,11 +3,6 @@
 These are my personal [dotfiles][]. They turn ordinary stock applications into
 my own carefully crafted lightsaber.
 
-    {///////\\\\\\\<#>}=============================================
-
-[Yonk][] and I scour the galaxy looking for nanosecond timesavers for all our
-favorite tools. If you've got a tip [let us know][octodots].
-
 ![screencap][]
 
 ## Get your own ##
@@ -58,15 +53,9 @@ approach makes this so easy. I also have stolen freely from:
 * [Tom Ryder](http://github.com/tejr/dotfiles)
 * [Steve Losh](http://github.com/sjl/dotfiles)
 
-## Share your dots
 
-If you've got a great set of dots (or want to get started), check out
-[dotfiles.github.com][dotfiles]. Ping @[octodots][] with great dot sets you've
-found or tips and tricks for your favorite tools.
 
 [dotfiles]: http://dotfiles.github.com
-[Yonk]: https://twitter.com/adamyonk
-[octodots]: https://twitter.com/octodots
-[holman/dotfiles]: https://github.com/holman/dotfiles
+
 [screencap]:
 http://cl.ly/image/3k171S3E3k2q/Screen%20Shot%202013-02-07%20at%2011.06.41%20AM.png
