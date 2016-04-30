@@ -13,15 +13,14 @@ favorite tools. If you've got a tip [let us know][octodots].
 ## Get your own ##
 
 If you're new to dotfiles, this probably isn't the best starter repository for
-you. While these started as a clone of [Holman's][holman/dotfiles], many
-utilities are unique to my workflow. I recommend other [dotfile frameworks][dotfiles]
+you. I recommend other [dotfile frameworks][dotfiles]
 out there.
 
 ### Installation ###
 
 If you're crazy and want to clone my dots anyway:
 
-- `git clone https://github.com/pengwynn/dotfiles.git ~/.dotfiles`
+- `git clone https://github.com/krnprdp/dotfiles.git ~/.dotfiles`
 - `cd ~/.dotfiles`
 - `script/bootstrap`
 
