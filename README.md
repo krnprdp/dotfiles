@@ -3,8 +3,6 @@
 These are my personal [dotfiles][]. They turn ordinary stock applications into
 my own carefully crafted lightsaber.
 
-![screencap][]
-
 ## Get your own ##
 
 If you're new to dotfiles, this probably isn't the best starter repository for
